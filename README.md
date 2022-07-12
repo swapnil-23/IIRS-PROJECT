@@ -11,6 +11,12 @@ There are 2 band images in the given dataset format that is 3 band and 16 band i
 
 The SegNet model(Semantic Model). The core trainable segmentation architecture consists of an encoder network, a corresponding decoder network followed by a pixel-wise classification layer. 
 
+I have used Jaccard Coefficient to compare the memebrs for two sets to see which memebers are shared and which are distinct.
+                    
+                    J(x,y) = |x∩y| / |x∪y| where J(x,y) is the Jaccard Coefficent for x and y
+
+
+
 RESULT: The accuracy obtained is 66.745% and theaccuracy obtained on the validation dataset is 73.97%
 
 
