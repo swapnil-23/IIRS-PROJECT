@@ -3,7 +3,7 @@
 This is the project performed at Indian Institute Of Remote Sensing (IIRS), Dehradun. (ISRO)
 
 **TOPIC : MULTISPECTRAL SATELLITE IMAGE SEGMENTATION
-USING THE SEGNET DEEP LEARNING ARCHITECTURE**
+USING THE SEG-NET DEEP LEARNING ARCHITECTURE**
 
 **Dataset is downloaded from https://www.kaggle.com/c/dstl-satellite-imagery-feature-detection/data**
 
