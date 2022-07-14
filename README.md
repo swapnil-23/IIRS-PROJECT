@@ -1,4 +1,5 @@
-# IIRS-PROJECT
+ **IIRS-PROJECT**
+This is the project performed at Indian Institute Of Remote Sensing (IIRS), Dehradun. (ISRO)
 
 Performing Satellite Image Segmentation using SegNet algorithm.
 
