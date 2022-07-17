@@ -32,6 +32,6 @@ I have used Jaccard Coefficient to compare the memebrs for two sets to see which
 
 
 
-RESULT: The accuracy obtained is 66.745% and theaccuracy obtained on the validation dataset is 73.97%
+RESULT: The accuracy obtained is 66.745% and the test accuracy is 73.97%
 
 
