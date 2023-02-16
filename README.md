@@ -9,7 +9,7 @@ USING THE SEG-NET DEEP LEARNING ARCHITECTURE**
 
 OBJECTIVE:  Semantic segmentation to detect and classify the types of objects found in these regions.
 
-OVERVIEW:   In this project I have used satellite image sgmentation model (SegNet) in order to classify the types of objects found in these regions. 
+OVERVIEW:   In this project I have used satellite image segmentation model (SegNet) in order to classify the types of objects found in these regions. 
 There are 2 band images in the given dataset format that is 3 band and 16 band images where the image format is GeoTiff format.
 
 The object types present in the geotiff format file are:
