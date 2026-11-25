@@ -26,7 +26,7 @@ The object types present in the geotiff format file are:
 
 The SegNet model(Semantic Model). The core trainable segmentation architecture consists of an encoder network, a corresponding decoder network followed by a pixel-wise classification layer. 
 
-I have used Jaccard Coefficient to compare the memebrs for two sets to see which memebers are shared and which are distinct.
+I have used Jaccard Coefficient to compare the members for two sets to see which members are shared and which are distinct.
                     
                     J(x,y) = |x∩y| / |x∪y| where J(x,y) is the Jaccard Coefficent for x and y
 
